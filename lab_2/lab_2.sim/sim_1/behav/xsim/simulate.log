@@ -1,0 +1,66 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+20020004 20030008 34420001 34630004
+Simulation started
+pc:xxxxxxxx, instr:xxxxxxxx, op:xx, func:xx
+srca:xxxxxxxx, srcb:xxxxxxxx, alucontrol:x, aluout:xxxxxxxx, zero:x
+op:xx, jump:x, alucontrol:xxx
+pc:00000000, instr:20020004, op:08, func:04
+srca:00000000, srcb:00000004, alucontrol:2, aluout:00000004, zero:0
+op:08, jump:0, alucontrol:010
+pc:00000000, instr:20020004, op:08, func:04
+srca:00000000, srcb:00000004, alucontrol:2, aluout:00000004, zero:0
+op:08, jump:0, alucontrol:010
+pc:00000000, instr:20020004, op:08, func:04
+srca:00000000, srcb:00000004, alucontrol:2, aluout:00000004, zero:0
+op:08, jump:0, alucontrol:010
+pc:00000004, instr:20030008, op:08, func:08
+srca:00000000, srcb:00000008, alucontrol:2, aluout:00000008, zero:0
+op:08, jump:0, alucontrol:010
+pc:00000008, instr:34420001, op:0d, func:01
+srca:00000004, srcb:00000001, alucontrol:1, aluout:00000005, zero:0
+op:0d, jump:0, alucontrol:001
+pc:0000000c, instr:34630004, op:0d, func:04
+srca:00000008, srcb:00000004, alucontrol:1, aluout:0000000c, zero:0
+op:0d, jump:0, alucontrol:001
+pc:00000010, instr:2067fff7, op:08, func:37
+srca:0000000c, srcb:fffffff7, alucontrol:2, aluout:00000003, zero:0
+op:08, jump:0, alucontrol:010
+pc:00000014, instr:00e22025, op:00, func:25
+srca:00000003, srcb:00000005, alucontrol:1, aluout:00000007, zero:0
+op:00, jump:0, alucontrol:001
+pc:00000018, instr:00642824, op:00, func:24
+srca:0000000c, srcb:00000007, alucontrol:0, aluout:00000004, zero:0
+op:00, jump:0, alucontrol:000
+pc:0000001c, instr:00a42820, op:00, func:20
+srca:00000004, srcb:00000007, alucontrol:2, aluout:0000000b, zero:0
+op:00, jump:0, alucontrol:010
+pc:00000020, instr:10a7000a, op:04, func:0a
+srca:0000000b, srcb:00000003, alucontrol:6, aluout:00000008, zero:0
+op:04, jump:0, alucontrol:110
+pc:00000024, instr:0064202a, op:00, func:2a
+srca:0000000c, srcb:00000007, alucontrol:7, aluout:00000000, zero:1
+op:00, jump:0, alucontrol:111
+pc:00000028, instr:10800001, op:04, func:01
+srca:00000000, srcb:00000000, alucontrol:6, aluout:00000000, zero:1
+op:04, jump:0, alucontrol:110
+pc:00000030, instr:00e2202a, op:00, func:2a
+srca:00000003, srcb:00000005, alucontrol:7, aluout:00000001, zero:0
+op:00, jump:0, alucontrol:111
+pc:00000034, instr:00853820, op:00, func:20
+srca:00000001, srcb:0000000b, alucontrol:2, aluout:0000000c, zero:0
+op:00, jump:0, alucontrol:010
+pc:00000038, instr:00e23822, op:00, func:22
+srca:0000000c, srcb:00000005, alucontrol:6, aluout:00000007, zero:0
+op:00, jump:0, alucontrol:110
+pc:0000003c, instr:ac670044, op:2b, func:04
+srca:0000000c, srcb:00000044, alucontrol:2, aluout:00000050, zero:0
+op:2b, jump:0, alucontrol:010
+pc:00000040, instr:8c020050, op:23, func:10
+srca:00000000, srcb:00000050, alucontrol:2, aluout:00000050, zero:0
+op:23, jump:0, alucontrol:010
+pc:00000044, instr:14440001, op:05, func:01
+srca:00000007, srcb:00000001, alucontrol:6, aluout:00000006, zero:0
+op:05, jump:0, alucontrol:110
+Simulation succeeded
+$stop called at time : 195 ns : File "C:/Users/12565/Desktop/2019-2020-spring/computer architecture laborotary/lab_2/lab_2.srcs/sources_1/new/mips.sv" Line 344

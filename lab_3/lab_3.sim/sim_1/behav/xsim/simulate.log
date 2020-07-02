@@ -1,0 +1,133 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+Simulation started
+counter:x, S:x, controlbits:xxxx, op:xx, MemtoReg:x, RegDst:x, IorD:x, ALUSrcA:x, PCSrc:x, ALUSrcB:x, ALUOp:x, IRWrite:x, MemWrite:x, PCWrite:x, Branch:x, RegWrite:x
+PC:xxxxxxxx, Instr:xxxxxxxx, PCNext:xxxxxxxx, SrcA:xxxxxxxx, SrcB:xxxxxxxx, ALUControl:x, ALUResult:xxxxxxxx, ALUOut:xxxxxxxx
+PC:00000000, Instr:00000000, PCNext:00000004, SrcA:00000000, SrcB:00000004, ALUControl:2, ALUResult:00000004, ALUOut:00000000
+counter:0, S:0, controlbits:0094, op:00, MemtoReg:0, RegDst:0, IorD:0, ALUSrcA:0, PCSrc:0, ALUSrcB:1, ALUOp:0, IRWrite:1, MemWrite:0, PCWrite:1, Branch:0, RegWrite:0
+PC:00000000, Instr:00000000, PCNext:00000004, SrcA:00000000, SrcB:00000004, ALUControl:2, ALUResult:00000004, ALUOut:00000000
+counter:0, S:0, controlbits:0094, op:00, MemtoReg:0, RegDst:0, IorD:0, ALUSrcA:0, PCSrc:0, ALUSrcB:1, ALUOp:0, IRWrite:1, MemWrite:0, PCWrite:1, Branch:0, RegWrite:0
+PC:00000000, Instr:00000000, PCNext:00000004, SrcA:00000000, SrcB:00000004, ALUControl:2, ALUResult:00000004, ALUOut:00000000
+counter:0, S:0, controlbits:0094, op:00, MemtoReg:0, RegDst:0, IorD:0, ALUSrcA:0, PCSrc:0, ALUSrcB:1, ALUOp:0, IRWrite:1, MemWrite:0, PCWrite:1, Branch:0, RegWrite:0
+PC:00000004, Instr:20020005, PCNext:00000018, SrcA:00000004, SrcB:00000014, ALUControl:2, ALUResult:00000018, ALUOut:00000004
+counter:1, S:1, controlbits:0180, op:08, MemtoReg:0, RegDst:0, IorD:0, ALUSrcA:0, PCSrc:0, ALUSrcB:3, ALUOp:0, IRWrite:0, MemWrite:0, PCWrite:0, Branch:0, RegWrite:0
+PC:00000004, Instr:20020005, PCNext:00000005, SrcA:00000000, SrcB:00000005, ALUControl:2, ALUResult:00000005, ALUOut:00000018
+counter:2, S:9, controlbits:0900, op:08, MemtoReg:0, RegDst:0, IorD:0, ALUSrcA:1, PCSrc:0, ALUSrcB:2, ALUOp:0, IRWrite:0, MemWrite:0, PCWrite:0, Branch:0, RegWrite:0
+PC:00000004, Instr:20020005, PCNext:xxxxxxxx, SrcA:00000004, SrcB:xxxxxxxx, ALUControl:2, ALUResult:xxxxxxxx, ALUOut:00000005
+counter:3, S:a, controlbits:0001, op:08, MemtoReg:0, RegDst:0, IorD:0, ALUSrcA:0, PCSrc:0, ALUSrcB:0, ALUOp:0, IRWrite:0, MemWrite:0, PCWrite:0, Branch:0, RegWrite:1
+PC:00000004, Instr:20020005, PCNext:00000008, SrcA:00000004, SrcB:00000004, ALUControl:2, ALUResult:00000008, ALUOut:xxxxxxxx
+counter:4, S:0, controlbits:0094, op:08, MemtoReg:0, RegDst:0, IorD:0, ALUSrcA:0, PCSrc:0, ALUSrcB:1, ALUOp:0, IRWrite:1, MemWrite:0, PCWrite:1, Branch:0, RegWrite:0
+PC:00000008, Instr:2003000c, PCNext:00000038, SrcA:00000008, SrcB:00000030, ALUControl:2, ALUResult:00000038, ALUOut:00000008
+counter:5, S:1, controlbits:0180, op:08, MemtoReg:0, RegDst:0, IorD:0, ALUSrcA:0, PCSrc:0, ALUSrcB:3, ALUOp:0, IRWrite:0, MemWrite:0, PCWrite:0, Branch:0, RegWrite:0
+PC:00000008, Instr:2003000c, PCNext:0000000c, SrcA:00000000, SrcB:0000000c, ALUControl:2, ALUResult:0000000c, ALUOut:00000038
+counter:6, S:9, controlbits:0900, op:08, MemtoReg:0, RegDst:0, IorD:0, ALUSrcA:1, PCSrc:0, ALUSrcB:2, ALUOp:0, IRWrite:0, MemWrite:0, PCWrite:0, Branch:0, RegWrite:0
+PC:00000008, Instr:2003000c, PCNext:xxxxxxxx, SrcA:00000008, SrcB:xxxxxxxx, ALUControl:2, ALUResult:xxxxxxxx, ALUOut:0000000c
+counter:7, S:a, controlbits:0001, op:08, MemtoReg:0, RegDst:0, IorD:0, ALUSrcA:0, PCSrc:0, ALUSrcB:0, ALUOp:0, IRWrite:0, MemWrite:0, PCWrite:0, Branch:0, RegWrite:1
+PC:00000008, Instr:2003000c, PCNext:0000000c, SrcA:00000008, SrcB:00000004, ALUControl:2, ALUResult:0000000c, ALUOut:xxxxxxxx
+counter:8, S:0, controlbits:0094, op:08, MemtoReg:0, RegDst:0, IorD:0, ALUSrcA:0, PCSrc:0, ALUSrcB:1, ALUOp:0, IRWrite:1, MemWrite:0, PCWrite:1, Branch:0, RegWrite:0
+PC:0000000c, Instr:2067fff7, PCNext:ffffffe8, SrcA:0000000c, SrcB:ffffffdc, ALUControl:2, ALUResult:ffffffe8, ALUOut:0000000c
+counter:9, S:1, controlbits:0180, op:08, MemtoReg:0, RegDst:0, IorD:0, ALUSrcA:0, PCSrc:0, ALUSrcB:3, ALUOp:0, IRWrite:0, MemWrite:0, PCWrite:0, Branch:0, RegWrite:0
+PC:0000000c, Instr:2067fff7, PCNext:00000003, SrcA:0000000c, SrcB:fffffff7, ALUControl:2, ALUResult:00000003, ALUOut:ffffffe8
+counter:a, S:9, controlbits:0900, op:08, MemtoReg:0, RegDst:0, IorD:0, ALUSrcA:1, PCSrc:0, ALUSrcB:2, ALUOp:0, IRWrite:0, MemWrite:0, PCWrite:0, Branch:0, RegWrite:0
+PC:0000000c, Instr:2067fff7, PCNext:xxxxxxxx, SrcA:0000000c, SrcB:xxxxxxxx, ALUControl:2, ALUResult:xxxxxxxx, ALUOut:00000003
+counter:b, S:a, controlbits:0001, op:08, MemtoReg:0, RegDst:0, IorD:0, ALUSrcA:0, PCSrc:0, ALUSrcB:0, ALUOp:0, IRWrite:0, MemWrite:0, PCWrite:0, Branch:0, RegWrite:1
+PC:0000000c, Instr:2067fff7, PCNext:00000010, SrcA:0000000c, SrcB:00000004, ALUControl:2, ALUResult:00000010, ALUOut:xxxxxxxx
+counter:c, S:0, controlbits:0094, op:08, MemtoReg:0, RegDst:0, IorD:0, ALUSrcA:0, PCSrc:0, ALUSrcB:1, ALUOp:0, IRWrite:1, MemWrite:0, PCWrite:1, Branch:0, RegWrite:0
+PC:00000010, Instr:00e22025, PCNext:000080a4, SrcA:00000010, SrcB:00008094, ALUControl:2, ALUResult:000080a4, ALUOut:00000010
+counter:d, S:1, controlbits:0180, op:00, MemtoReg:0, RegDst:0, IorD:0, ALUSrcA:0, PCSrc:0, ALUSrcB:3, ALUOp:0, IRWrite:0, MemWrite:0, PCWrite:0, Branch:0, RegWrite:0
+PC:00000010, Instr:00e22025, PCNext:00000007, SrcA:00000003, SrcB:00000005, ALUControl:1, ALUResult:00000007, ALUOut:000080a4
+counter:e, S:6, controlbits:0840, op:00, MemtoReg:0, RegDst:0, IorD:0, ALUSrcA:1, PCSrc:0, ALUSrcB:0, ALUOp:2, IRWrite:0, MemWrite:0, PCWrite:0, Branch:0, RegWrite:0
+PC:00000010, Instr:00e22025, PCNext:00000015, SrcA:00000010, SrcB:00000005, ALUControl:2, ALUResult:00000015, ALUOut:00000007
+counter:f, S:7, controlbits:2001, op:00, MemtoReg:0, RegDst:1, IorD:0, ALUSrcA:0, PCSrc:0, ALUSrcB:0, ALUOp:0, IRWrite:0, MemWrite:0, PCWrite:0, Branch:0, RegWrite:1
+PC:00000010, Instr:00e22025, PCNext:00000014, SrcA:00000010, SrcB:00000004, ALUControl:2, ALUResult:00000014, ALUOut:00000015
+counter:0, S:0, controlbits:0094, op:00, MemtoReg:0, RegDst:0, IorD:0, ALUSrcA:0, PCSrc:0, ALUSrcB:1, ALUOp:0, IRWrite:1, MemWrite:0, PCWrite:1, Branch:0, RegWrite:0
+PC:00000014, Instr:00642824, PCNext:0000a0a4, SrcA:00000014, SrcB:0000a090, ALUControl:2, ALUResult:0000a0a4, ALUOut:00000014
+counter:1, S:1, controlbits:0180, op:00, MemtoReg:0, RegDst:0, IorD:0, ALUSrcA:0, PCSrc:0, ALUSrcB:3, ALUOp:0, IRWrite:0, MemWrite:0, PCWrite:0, Branch:0, RegWrite:0
+PC:00000014, Instr:00642824, PCNext:00000004, SrcA:0000000c, SrcB:00000007, ALUControl:0, ALUResult:00000004, ALUOut:0000a0a4
+counter:2, S:6, controlbits:0840, op:00, MemtoReg:0, RegDst:0, IorD:0, ALUSrcA:1, PCSrc:0, ALUSrcB:0, ALUOp:2, IRWrite:0, MemWrite:0, PCWrite:0, Branch:0, RegWrite:0
+PC:00000014, Instr:00642824, PCNext:0000001b, SrcA:00000014, SrcB:00000007, ALUControl:2, ALUResult:0000001b, ALUOut:00000004
+counter:3, S:7, controlbits:2001, op:00, MemtoReg:0, RegDst:1, IorD:0, ALUSrcA:0, PCSrc:0, ALUSrcB:0, ALUOp:0, IRWrite:0, MemWrite:0, PCWrite:0, Branch:0, RegWrite:1
+PC:00000014, Instr:00642824, PCNext:00000018, SrcA:00000014, SrcB:00000004, ALUControl:2, ALUResult:00000018, ALUOut:0000001b
+counter:4, S:0, controlbits:0094, op:00, MemtoReg:0, RegDst:0, IorD:0, ALUSrcA:0, PCSrc:0, ALUSrcB:1, ALUOp:0, IRWrite:1, MemWrite:0, PCWrite:1, Branch:0, RegWrite:0
+PC:00000018, Instr:00a42820, PCNext:0000a098, SrcA:00000018, SrcB:0000a080, ALUControl:2, ALUResult:0000a098, ALUOut:00000018
+counter:5, S:1, controlbits:0180, op:00, MemtoReg:0, RegDst:0, IorD:0, ALUSrcA:0, PCSrc:0, ALUSrcB:3, ALUOp:0, IRWrite:0, MemWrite:0, PCWrite:0, Branch:0, RegWrite:0
+PC:00000018, Instr:00a42820, PCNext:0000000b, SrcA:00000004, SrcB:00000007, ALUControl:2, ALUResult:0000000b, ALUOut:0000a098
+counter:6, S:6, controlbits:0840, op:00, MemtoReg:0, RegDst:0, IorD:0, ALUSrcA:1, PCSrc:0, ALUSrcB:0, ALUOp:2, IRWrite:0, MemWrite:0, PCWrite:0, Branch:0, RegWrite:0
+PC:00000018, Instr:00a42820, PCNext:0000001f, SrcA:00000018, SrcB:00000007, ALUControl:2, ALUResult:0000001f, ALUOut:0000000b
+counter:7, S:7, controlbits:2001, op:00, MemtoReg:0, RegDst:1, IorD:0, ALUSrcA:0, PCSrc:0, ALUSrcB:0, ALUOp:0, IRWrite:0, MemWrite:0, PCWrite:0, Branch:0, RegWrite:1
+PC:00000018, Instr:00a42820, PCNext:0000001c, SrcA:00000018, SrcB:00000004, ALUControl:2, ALUResult:0000001c, ALUOut:0000001f
+counter:8, S:0, controlbits:0094, op:00, MemtoReg:0, RegDst:0, IorD:0, ALUSrcA:0, PCSrc:0, ALUSrcB:1, ALUOp:0, IRWrite:1, MemWrite:0, PCWrite:1, Branch:0, RegWrite:0
+PC:0000001c, Instr:10a7000a, PCNext:00000044, SrcA:0000001c, SrcB:00000028, ALUControl:2, ALUResult:00000044, ALUOut:0000001c
+counter:9, S:1, controlbits:0180, op:04, MemtoReg:0, RegDst:0, IorD:0, ALUSrcA:0, PCSrc:0, ALUSrcB:3, ALUOp:0, IRWrite:0, MemWrite:0, PCWrite:0, Branch:0, RegWrite:0
+PC:0000001c, Instr:10a7000a, PCNext:00000044, SrcA:0000000b, SrcB:00000003, ALUControl:6, ALUResult:00000008, ALUOut:00000044
+counter:a, S:8, controlbits:0a22, op:04, MemtoReg:0, RegDst:0, IorD:0, ALUSrcA:1, PCSrc:1, ALUSrcB:0, ALUOp:1, IRWrite:0, MemWrite:0, PCWrite:0, Branch:1, RegWrite:0
+PC:0000001c, Instr:10a7000a, PCNext:00000020, SrcA:0000001c, SrcB:00000004, ALUControl:2, ALUResult:00000020, ALUOut:00000008
+counter:b, S:0, controlbits:0094, op:04, MemtoReg:0, RegDst:0, IorD:0, ALUSrcA:0, PCSrc:0, ALUSrcB:1, ALUOp:0, IRWrite:1, MemWrite:0, PCWrite:1, Branch:0, RegWrite:0
+PC:00000020, Instr:0064202a, PCNext:000080c8, SrcA:00000020, SrcB:000080a8, ALUControl:2, ALUResult:000080c8, ALUOut:00000020
+counter:c, S:1, controlbits:0180, op:00, MemtoReg:0, RegDst:0, IorD:0, ALUSrcA:0, PCSrc:0, ALUSrcB:3, ALUOp:0, IRWrite:0, MemWrite:0, PCWrite:0, Branch:0, RegWrite:0
+PC:00000020, Instr:0064202a, PCNext:00000000, SrcA:0000000c, SrcB:00000007, ALUControl:7, ALUResult:00000000, ALUOut:000080c8
+counter:d, S:6, controlbits:0840, op:00, MemtoReg:0, RegDst:0, IorD:0, ALUSrcA:1, PCSrc:0, ALUSrcB:0, ALUOp:2, IRWrite:0, MemWrite:0, PCWrite:0, Branch:0, RegWrite:0
+PC:00000020, Instr:0064202a, PCNext:00000027, SrcA:00000020, SrcB:00000007, ALUControl:2, ALUResult:00000027, ALUOut:00000000
+counter:e, S:7, controlbits:2001, op:00, MemtoReg:0, RegDst:1, IorD:0, ALUSrcA:0, PCSrc:0, ALUSrcB:0, ALUOp:0, IRWrite:0, MemWrite:0, PCWrite:0, Branch:0, RegWrite:1
+PC:00000020, Instr:0064202a, PCNext:00000024, SrcA:00000020, SrcB:00000004, ALUControl:2, ALUResult:00000024, ALUOut:00000027
+counter:f, S:0, controlbits:0094, op:00, MemtoReg:0, RegDst:0, IorD:0, ALUSrcA:0, PCSrc:0, ALUSrcB:1, ALUOp:0, IRWrite:1, MemWrite:0, PCWrite:1, Branch:0, RegWrite:0
+PC:00000024, Instr:10800001, PCNext:00000028, SrcA:00000024, SrcB:00000004, ALUControl:2, ALUResult:00000028, ALUOut:00000024
+counter:0, S:1, controlbits:0180, op:04, MemtoReg:0, RegDst:0, IorD:0, ALUSrcA:0, PCSrc:0, ALUSrcB:3, ALUOp:0, IRWrite:0, MemWrite:0, PCWrite:0, Branch:0, RegWrite:0
+PC:00000024, Instr:10800001, PCNext:00000028, SrcA:00000000, SrcB:00000000, ALUControl:6, ALUResult:00000000, ALUOut:00000028
+counter:1, S:8, controlbits:0a22, op:04, MemtoReg:0, RegDst:0, IorD:0, ALUSrcA:1, PCSrc:1, ALUSrcB:0, ALUOp:1, IRWrite:0, MemWrite:0, PCWrite:0, Branch:1, RegWrite:0
+PC:00000028, Instr:10800001, PCNext:0000002c, SrcA:00000028, SrcB:00000004, ALUControl:2, ALUResult:0000002c, ALUOut:00000000
+counter:2, S:0, controlbits:0094, op:04, MemtoReg:0, RegDst:0, IorD:0, ALUSrcA:0, PCSrc:0, ALUSrcB:1, ALUOp:0, IRWrite:1, MemWrite:0, PCWrite:1, Branch:0, RegWrite:0
+PC:0000002c, Instr:00e2202a, PCNext:000080d4, SrcA:0000002c, SrcB:000080a8, ALUControl:2, ALUResult:000080d4, ALUOut:0000002c
+counter:3, S:1, controlbits:0180, op:00, MemtoReg:0, RegDst:0, IorD:0, ALUSrcA:0, PCSrc:0, ALUSrcB:3, ALUOp:0, IRWrite:0, MemWrite:0, PCWrite:0, Branch:0, RegWrite:0
+PC:0000002c, Instr:00e2202a, PCNext:00000001, SrcA:00000003, SrcB:00000005, ALUControl:7, ALUResult:00000001, ALUOut:000080d4
+counter:4, S:6, controlbits:0840, op:00, MemtoReg:0, RegDst:0, IorD:0, ALUSrcA:1, PCSrc:0, ALUSrcB:0, ALUOp:2, IRWrite:0, MemWrite:0, PCWrite:0, Branch:0, RegWrite:0
+PC:0000002c, Instr:00e2202a, PCNext:00000031, SrcA:0000002c, SrcB:00000005, ALUControl:2, ALUResult:00000031, ALUOut:00000001
+counter:5, S:7, controlbits:2001, op:00, MemtoReg:0, RegDst:1, IorD:0, ALUSrcA:0, PCSrc:0, ALUSrcB:0, ALUOp:0, IRWrite:0, MemWrite:0, PCWrite:0, Branch:0, RegWrite:1
+PC:0000002c, Instr:00e2202a, PCNext:00000030, SrcA:0000002c, SrcB:00000004, ALUControl:2, ALUResult:00000030, ALUOut:00000031
+counter:6, S:0, controlbits:0094, op:00, MemtoReg:0, RegDst:0, IorD:0, ALUSrcA:0, PCSrc:0, ALUSrcB:1, ALUOp:0, IRWrite:1, MemWrite:0, PCWrite:1, Branch:0, RegWrite:0
+PC:00000030, Instr:00853820, PCNext:0000e0b0, SrcA:00000030, SrcB:0000e080, ALUControl:2, ALUResult:0000e0b0, ALUOut:00000030
+counter:7, S:1, controlbits:0180, op:00, MemtoReg:0, RegDst:0, IorD:0, ALUSrcA:0, PCSrc:0, ALUSrcB:3, ALUOp:0, IRWrite:0, MemWrite:0, PCWrite:0, Branch:0, RegWrite:0
+PC:00000030, Instr:00853820, PCNext:0000000c, SrcA:00000001, SrcB:0000000b, ALUControl:2, ALUResult:0000000c, ALUOut:0000e0b0
+counter:8, S:6, controlbits:0840, op:00, MemtoReg:0, RegDst:0, IorD:0, ALUSrcA:1, PCSrc:0, ALUSrcB:0, ALUOp:2, IRWrite:0, MemWrite:0, PCWrite:0, Branch:0, RegWrite:0
+PC:00000030, Instr:00853820, PCNext:0000003b, SrcA:00000030, SrcB:0000000b, ALUControl:2, ALUResult:0000003b, ALUOut:0000000c
+counter:9, S:7, controlbits:2001, op:00, MemtoReg:0, RegDst:1, IorD:0, ALUSrcA:0, PCSrc:0, ALUSrcB:0, ALUOp:0, IRWrite:0, MemWrite:0, PCWrite:0, Branch:0, RegWrite:1
+PC:00000030, Instr:00853820, PCNext:00000034, SrcA:00000030, SrcB:00000004, ALUControl:2, ALUResult:00000034, ALUOut:0000003b
+counter:a, S:0, controlbits:0094, op:00, MemtoReg:0, RegDst:0, IorD:0, ALUSrcA:0, PCSrc:0, ALUSrcB:1, ALUOp:0, IRWrite:1, MemWrite:0, PCWrite:1, Branch:0, RegWrite:0
+PC:00000034, Instr:00e23822, PCNext:0000e0bc, SrcA:00000034, SrcB:0000e088, ALUControl:2, ALUResult:0000e0bc, ALUOut:00000034
+counter:b, S:1, controlbits:0180, op:00, MemtoReg:0, RegDst:0, IorD:0, ALUSrcA:0, PCSrc:0, ALUSrcB:3, ALUOp:0, IRWrite:0, MemWrite:0, PCWrite:0, Branch:0, RegWrite:0
+PC:00000034, Instr:00e23822, PCNext:00000007, SrcA:0000000c, SrcB:00000005, ALUControl:6, ALUResult:00000007, ALUOut:0000e0bc
+counter:c, S:6, controlbits:0840, op:00, MemtoReg:0, RegDst:0, IorD:0, ALUSrcA:1, PCSrc:0, ALUSrcB:0, ALUOp:2, IRWrite:0, MemWrite:0, PCWrite:0, Branch:0, RegWrite:0
+PC:00000034, Instr:00e23822, PCNext:00000039, SrcA:00000034, SrcB:00000005, ALUControl:2, ALUResult:00000039, ALUOut:00000007
+counter:d, S:7, controlbits:2001, op:00, MemtoReg:0, RegDst:1, IorD:0, ALUSrcA:0, PCSrc:0, ALUSrcB:0, ALUOp:0, IRWrite:0, MemWrite:0, PCWrite:0, Branch:0, RegWrite:1
+PC:00000034, Instr:00e23822, PCNext:00000038, SrcA:00000034, SrcB:00000004, ALUControl:2, ALUResult:00000038, ALUOut:00000039
+counter:e, S:0, controlbits:0094, op:00, MemtoReg:0, RegDst:0, IorD:0, ALUSrcA:0, PCSrc:0, ALUSrcB:1, ALUOp:0, IRWrite:1, MemWrite:0, PCWrite:1, Branch:0, RegWrite:0
+PC:00000038, Instr:ac670044, PCNext:00000148, SrcA:00000038, SrcB:00000110, ALUControl:2, ALUResult:00000148, ALUOut:00000038
+counter:f, S:1, controlbits:0180, op:2b, MemtoReg:0, RegDst:0, IorD:0, ALUSrcA:0, PCSrc:0, ALUSrcB:3, ALUOp:0, IRWrite:0, MemWrite:0, PCWrite:0, Branch:0, RegWrite:0
+PC:00000038, Instr:ac670044, PCNext:00000050, SrcA:0000000c, SrcB:00000044, ALUControl:2, ALUResult:00000050, ALUOut:00000148
+counter:0, S:2, controlbits:0900, op:2b, MemtoReg:0, RegDst:0, IorD:0, ALUSrcA:1, PCSrc:0, ALUSrcB:2, ALUOp:0, IRWrite:0, MemWrite:0, PCWrite:0, Branch:0, RegWrite:0
+PC:00000038, Instr:ac670044, PCNext:0000003f, SrcA:00000038, SrcB:00000007, ALUControl:2, ALUResult:0000003f, ALUOut:00000050
+counter:1, S:5, controlbits:1008, op:2b, MemtoReg:0, RegDst:0, IorD:1, ALUSrcA:0, PCSrc:0, ALUSrcB:0, ALUOp:0, IRWrite:0, MemWrite:1, PCWrite:0, Branch:0, RegWrite:0
+PC:00000038, Instr:ac670044, PCNext:0000003c, SrcA:00000038, SrcB:00000004, ALUControl:2, ALUResult:0000003c, ALUOut:0000003f
+counter:2, S:0, controlbits:0094, op:2b, MemtoReg:0, RegDst:0, IorD:0, ALUSrcA:0, PCSrc:0, ALUSrcB:1, ALUOp:0, IRWrite:1, MemWrite:0, PCWrite:1, Branch:0, RegWrite:0
+PC:0000003c, Instr:8c020050, PCNext:0000017c, SrcA:0000003c, SrcB:00000140, ALUControl:2, ALUResult:0000017c, ALUOut:0000003c
+counter:3, S:1, controlbits:0180, op:23, MemtoReg:0, RegDst:0, IorD:0, ALUSrcA:0, PCSrc:0, ALUSrcB:3, ALUOp:0, IRWrite:0, MemWrite:0, PCWrite:0, Branch:0, RegWrite:0
+PC:0000003c, Instr:8c020050, PCNext:00000050, SrcA:00000000, SrcB:00000050, ALUControl:2, ALUResult:00000050, ALUOut:0000017c
+counter:4, S:2, controlbits:0900, op:23, MemtoReg:0, RegDst:0, IorD:0, ALUSrcA:1, PCSrc:0, ALUSrcB:2, ALUOp:0, IRWrite:0, MemWrite:0, PCWrite:0, Branch:0, RegWrite:0
+PC:0000003c, Instr:8c020050, PCNext:00000041, SrcA:0000003c, SrcB:00000005, ALUControl:2, ALUResult:00000041, ALUOut:00000050
+counter:5, S:3, controlbits:1000, op:23, MemtoReg:0, RegDst:0, IorD:1, ALUSrcA:0, PCSrc:0, ALUSrcB:0, ALUOp:0, IRWrite:0, MemWrite:0, PCWrite:0, Branch:0, RegWrite:0
+PC:0000003c, Instr:8c020050, PCNext:00000041, SrcA:0000003c, SrcB:00000005, ALUControl:2, ALUResult:00000041, ALUOut:00000041
+counter:6, S:4, controlbits:4001, op:23, MemtoReg:1, RegDst:0, IorD:0, ALUSrcA:0, PCSrc:0, ALUSrcB:0, ALUOp:0, IRWrite:0, MemWrite:0, PCWrite:0, Branch:0, RegWrite:1
+PC:0000003c, Instr:8c020050, PCNext:00000040, SrcA:0000003c, SrcB:00000004, ALUControl:2, ALUResult:00000040, ALUOut:00000041
+counter:7, S:0, controlbits:0094, op:23, MemtoReg:0, RegDst:0, IorD:0, ALUSrcA:0, PCSrc:0, ALUSrcB:1, ALUOp:0, IRWrite:1, MemWrite:0, PCWrite:1, Branch:0, RegWrite:0
+PC:00000040, Instr:08000011, PCNext:00000084, SrcA:00000040, SrcB:00000044, ALUControl:2, ALUResult:00000084, ALUOut:00000040
+counter:8, S:1, controlbits:0180, op:02, MemtoReg:0, RegDst:0, IorD:0, ALUSrcA:0, PCSrc:0, ALUSrcB:3, ALUOp:0, IRWrite:0, MemWrite:0, PCWrite:0, Branch:0, RegWrite:0
+PC:00000040, Instr:08000011, PCNext:00000044, SrcA:00000040, SrcB:00000000, ALUControl:2, ALUResult:00000040, ALUOut:00000084
+counter:9, S:b, controlbits:0404, op:02, MemtoReg:0, RegDst:0, IorD:0, ALUSrcA:0, PCSrc:2, ALUSrcB:0, ALUOp:0, IRWrite:0, MemWrite:0, PCWrite:1, Branch:0, RegWrite:0
+PC:00000044, Instr:08000011, PCNext:00000048, SrcA:00000044, SrcB:00000004, ALUControl:2, ALUResult:00000048, ALUOut:00000040
+counter:a, S:0, controlbits:0094, op:02, MemtoReg:0, RegDst:0, IorD:0, ALUSrcA:0, PCSrc:0, ALUSrcB:1, ALUOp:0, IRWrite:1, MemWrite:0, PCWrite:1, Branch:0, RegWrite:0
+PC:00000048, Instr:ac020054, PCNext:00000198, SrcA:00000048, SrcB:00000150, ALUControl:2, ALUResult:00000198, ALUOut:00000048
+counter:b, S:1, controlbits:0180, op:2b, MemtoReg:0, RegDst:0, IorD:0, ALUSrcA:0, PCSrc:0, ALUSrcB:3, ALUOp:0, IRWrite:0, MemWrite:0, PCWrite:0, Branch:0, RegWrite:0
+PC:00000048, Instr:ac020054, PCNext:00000054, SrcA:00000000, SrcB:00000054, ALUControl:2, ALUResult:00000054, ALUOut:00000198
+counter:c, S:2, controlbits:0900, op:2b, MemtoReg:0, RegDst:0, IorD:0, ALUSrcA:1, PCSrc:0, ALUSrcB:2, ALUOp:0, IRWrite:0, MemWrite:0, PCWrite:0, Branch:0, RegWrite:0
+Simulation succeeded
+$stop called at time : 635 ns : File "C:/Users/12565/Desktop/2019-2020-spring/computer architecture laborotary/lab_3/lab_3.srcs/sources_1/new/mips.sv" Line 466
